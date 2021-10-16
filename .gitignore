@@ -21,6 +21,8 @@
 *.a
 *.la
 *.lo
+.DS_Store
+._.DS_Store
 
 # Shared objects (inc. Windows DLLs)
 *.dll
